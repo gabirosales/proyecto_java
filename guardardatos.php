@@ -26,7 +26,7 @@
     $apellido=$_POST["apellido"];
     $telefono=$_POST["telefono"];
     $dui=$_POST["dui"];
-
+//codigo php
     $servername = "localhost";
     $username = "root";
     $password = "";
