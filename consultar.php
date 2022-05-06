@@ -16,7 +16,7 @@
     $password = "";
     $dbname = "sis21c";
 
-    // Create connection
+    // crear conexion
     $conn = new mysqli($servername, $username, $password, $dbname);
     // Check connection
     if ($conn->connect_error) {
